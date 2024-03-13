@@ -6,10 +6,10 @@ I'm using Django, Keras, Tensorflow to build wonderful applications.
 **I love working with**
 
 <div display="flex">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Scikit_learn_logo.svg/1280px-Scikit_learn_logo.svg.png" alt="Scikit-Learn" style="width: 100px; height: 100px;"/>
+  <img src="https://i.ibb.co/yPVFrJW/scikit-learn.png" alt="Scikit-Learn" style="width: 100px; height: 100px; background-color: white; padding: 10px;"/>
   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" style="width: 100px; height: 100px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/799px-Unity_2021.svg.png" alt="Unity" style="width: 100px; height: 100px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="Python" style="width: 100px; height: 100px;"/>
+  <img src="https://i.ibb.co/pK2XmbK/unity.png" alt="Unity" style="width: 100px; height: 100px; background-color: white; padding: 10px;"/>
+  <img src="https://i.ibb.co/YjG0Dzn/tensorflow.png" alt="TensorFlow" style="width: 100px; height: 100px; background-color: white; padding: 10px;"/>
 </div>
 
 ### 🔭 I’m working on
